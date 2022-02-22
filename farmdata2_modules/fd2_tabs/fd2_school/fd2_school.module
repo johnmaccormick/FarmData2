@@ -113,8 +113,6 @@ function fd2_school_menu() {
         'weight' => 150,
     );
 
->>>>>>> 96e76e4186d350842bc28dfd051681edd407c9a7
-
   return $items;
 };
 
