@@ -7,7 +7,7 @@ If you use these activities, please keep in mind that they were created for use 
 ## The Activities
 
 - 00 - Introduction to FOSS & The FarmData2 Community [ [docx](activities/01-IntroToFarmData2.docx) | [pdf](activities/01-IntroToFarmData2.pdf) ]
-- 01 - FarmData2 Developer Install [ [docx](activities/02-DeveloperInstall.docx) | [pdf](activities/02-DeveloperInstall.pdf) ]
+- 01 - FarmData2 Developer Install [ [docx](activities/01-DeveloperInstall.docx) | [pdf](activities/01-DeveloperInstall.pdf) ]
 - 02 - HTML Technology Spike [ [docx](activities/03-HTMLSpike.docx) | [pdf](activities/03-HTMLSpike.pdf) ]
 - 03 - Vue Data Binding Technology Spike [ [docx](activities/04-VueDataBindingSpike.docx) | [pdf](activities/04-VueDataBindingSpike.pdf) ]
 - 04 - Vue Events and JavaScript Functions Technology Spike [ [docx](activities/05-VueJSEventsSpike.docx) | [pdf](activities/05-VueJSEventsSpike.pdf) ]
